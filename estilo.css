@@ -99,7 +99,7 @@ html {
     color: #fff;
     display: flex;
     align-items: center;
-    padding: 5% 0; /* Ajustar espaciado superior e inferior */
+    padding: 15% 10; /* Ajustar espaciado superior e inferior */
 }
 
 .inicio .contenido-banner {
@@ -1060,3 +1060,4 @@ section {
     text-align: center; /* opcional: todos centrados */
   }
 }
+
